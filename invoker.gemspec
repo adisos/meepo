@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-GEM_NAME = "invoker"
+GEM_NAME = "meepo"
 
 lib = File.expand_path("../lib", __FILE__)
 $: << lib unless $:.include?(lib)
